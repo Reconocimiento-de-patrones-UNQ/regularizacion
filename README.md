@@ -8,7 +8,7 @@ En esta sesión unificamos conceptos previos para abordar la **regularización**
 
 ## Estructura del Repositorio
 
-  * **`Clase4_Reconocimiento_de_Patrones.ipynb`**: Notebook con la implementación de modelos lineales sobre el dataset *Breast Cancer Wisconsin*. Incluye simulaciones de inestabilidad y ejercicios de búsqueda de hiperparámetros óptimos.
+  * [Clase4_Reconocimiento_de_Patrones.ipynb](https://colab.research.google.com/drive/1V7bsRZH28QFgSeCk3gGye93Xq13SWg4n): Notebook con la implementación de modelos lineales sobre el dataset *Breast Cancer Wisconsin*. Incluye simulaciones de inestabilidad y ejercicios de búsqueda de hiperparámetros óptimos.
   * **`bibliografia_clase4.md`**: Compendio de lecturas fundamentales (Hastie, Tibshirani) y videos de StatQuest para visualizar la diferencia geométrica entre penalizaciones.
 
 ## Cómo ejecutar el material
